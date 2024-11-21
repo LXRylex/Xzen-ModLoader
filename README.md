@@ -1,5 +1,10 @@
 ### **OUTDATED PLEASE USE THE LATEST VERSION**
 
+
+
+
+
+
 right click after you opened the folder anywhere in it and click on " open in terminal "
 
 after opening in terminal just write " node xmods.js "
